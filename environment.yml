@@ -1,4 +1,4 @@
-name: example-environment
+name: notebookenv
 channels:
   - conda-forge
 dependencies:
